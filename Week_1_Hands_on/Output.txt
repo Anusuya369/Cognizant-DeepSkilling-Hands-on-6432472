@@ -1,0 +1,28 @@
+* Design Patterns and Principles
+
+--> Exercise 1: Implementation of Singleton Pattern
+
+[LOG]: Application started
+[LOG]: User logged in
+logger1 == logger2: true
+
+--> Exercise 2: Implementation of Factory Method Pattern
+
+Sending an SMS Notification
+Sending an Email Notification
+Sending a Push Notification
+
+* Data Structures and Algorithms
+
+--> Exercise 1: E-commerce Platform Search Function
+
+Search for a product: apple
+Search Results:
+P001 - Apple iPhone 15
+P004 - Apple MacBook Air
+
+--> Exercise 2: Financial Forecasting
+
+Past Revenue in Lakhs: [12.5, 13.8, 15.0, 14.2, 16.0, 17.3]
+Forecasted Revenue for Next Month: Rs. 15.83 Lakhs
+
