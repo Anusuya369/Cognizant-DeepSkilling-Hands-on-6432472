@@ -1,0 +1,8 @@
+
+Employee Name: virat
+Salary: 50000
+
+
+PL/SQL procedure successfully completed.
+
+Elapsed: 00:00:00.003
